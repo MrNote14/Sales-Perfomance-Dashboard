@@ -19,13 +19,5 @@ products, categories, regions, and time periods.
 - Profit Margin
 - Number of Orders
 
-## Dashboard
-[imagem]
-
-## Key Findings
-- ...
-- ...
-- ...
-
 ## Dataset
 Simulated dataset created for portfolio purposes.
